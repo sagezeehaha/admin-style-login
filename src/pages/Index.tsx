@@ -1,7 +1,7 @@
-import AdminLogin from "@/components/AdminLogin";
+import AdminDashboard from "@/components/AdminDashboard";
 
 const Index = () => {
-  return <AdminLogin />;
+  return <AdminDashboard />;
 };
 
 export default Index;
